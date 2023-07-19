@@ -1,0 +1,23 @@
+.a_cont{
+    border:2px Dashed red ;
+}
+header{
+    height: 115px ;
+    background-color: #9933cc ;
+    color: #ffffff ;
+    margin-left: 10px ;
+    margin-right: 10px ;
+}
+main{
+    height: 1200px ;
+    margin-left: 20px ;
+}
+footer{
+    height: 70px ;
+    background-color: #33B5C5 ;
+    color: #ffffff ;
+    margin-left: 10px ;
+    margin-right: 10px ;
+}
+.a-tbdr{ /* temproary border */
+}
